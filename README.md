@@ -3,11 +3,7 @@
 Energy Exascale Earth System Model (E3SM)
 ================================================================================
 
-E3SM is a state-of-the-art fully coupled model of the Earth's climate including
-important biogeochemical and cryospheric processes. It is intended to address
-the most challenging and demanding climate-change research problems and
-Department of Energy mission needs while efficiently using DOE Leadership
-Computing Facilities.  
+Test
 
 DOI: [10.11578/E3SM/dc.20240301.3](http://dx.doi.org/10.11578/E3SM/dc.20240301.3)
 
